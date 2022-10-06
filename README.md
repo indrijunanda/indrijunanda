@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm Indri Junanda 👋
 
-<!--
-**indrijunanda/indrijunanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌏 Tanjungpinang, Indonesia
 
-Here are some ideas to get you started:
+Web Developer based in Kepulauan Riau, Indonesia. Interested in user interface design, street photography enthusiast and love to create something simple.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Website](https://img.shields.io/badge/Website-ffffff?style=for-the-badge&logo=vercel&logoColor=black)](//indrij.vercel.app)
+
+### My GitHub Stats
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=indrijunanda&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrijunanda&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+__Thanks for coming to my little place on GitHub__ 😁
