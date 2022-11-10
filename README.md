@@ -1,4 +1,4 @@
-### Hi, I'm Indri Junanda 👋
+### Indri Junanda
 
 🌏 Tanjungpinang, Indonesia
 
