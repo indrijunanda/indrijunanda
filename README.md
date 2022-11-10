@@ -1,6 +1,5 @@
-### Indri Junanda
-
-🌏 Tanjungpinang, Indonesia
+## Indri Junanda
+### Indri
 
 Web Developer based in Kepulauan Riau, Indonesia. Interested in user interface design, street photography enthusiast and love to create something simple.
 
