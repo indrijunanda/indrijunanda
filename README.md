@@ -1,6 +1,4 @@
 ## Indri Junanda
-### Indri
-
 Web Developer based in Kepulauan Riau, Indonesia. Interested in user interface design, street photography enthusiast and love to create something simple.
 
 [![Website](https://img.shields.io/badge/Website-ffffff?style=for-the-badge&logo=vercel&logoColor=black)](//indrij.vercel.app)
