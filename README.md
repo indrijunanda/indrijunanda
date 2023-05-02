@@ -1,6 +1,6 @@
 ## Oh Hi, I'm Indri Junanda
 
-Web Developer based in Tanjungpinang, Kepulauan Riau, Indonesia. Recently focused on Frontend Web Development mainly Nuxt JS Framework, attracted to clean and simple designs.
+Web Developer based in Tanjungpinang, Kepulauan Riau, Indonesia. Recently focused on Frontend Web Development, attracted to clean and simple designs.
 
 [![Website](https://img.shields.io/badge/Website-ffffff?style=for-the-badge&logo=vercel&logoColor=black)](//indrij.vercel.app)
 
