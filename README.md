@@ -2,7 +2,7 @@
 
 Web Developer based in Tanjungpinang, Kepulauan Riau, Indonesia. Recently focused on Frontend Web Development using some javascript frameworks, attracted to clean and simple designs.
 
-[![driand.site](https://img.shields.io/badge/driand.site-ffffff?style=for-the-badge&logo=nuxtdotjs&logoColor=black)](//driand.site)
+[![driand.site](https://img.shields.io/badge/driand.site-ffffff?style=flat-square&logo=nuxtdotjs&logoColor=black)](//driand.site)
 
 ### My GitHub Stats
 
