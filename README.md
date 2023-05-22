@@ -2,7 +2,7 @@
 
 Web Developer based in Tanjungpinang, Kepulauan Riau, Indonesia. Recently focused on Frontend Web Development using some javascript frameworks, attracted to clean and simple designs.
 
-[![Website](https://img.shields.io/badge/Website-ffffff?style=for-the-badge&logo=vercel&logoColor=black)](//indrij.vercel.app)
+[![Website](https://img.shields.io/badge/Website-ffffff?style=for-the-badge&logo=nuxtdotjs&logoColor=black)](//driand.site)
 
 ### My GitHub Stats
 
