@@ -7,8 +7,8 @@ Web Developer based in Tanjungpinang, Kepulauan Riau, Indonesia. Recently focuse
 ### My GitHub Stats
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=indrijunanda&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrijunanda&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=indrijunanda&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=vue-dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrijunanda&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vue-dark"/>
 </p>
 
 __Thanks for coming to my little place on GitHub__ 😁
